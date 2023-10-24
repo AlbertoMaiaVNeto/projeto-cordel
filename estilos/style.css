@@ -82,7 +82,6 @@ section.normal{
 }
 
 section.normal>p{
-    text-shadow: 1px 0px 0px black;
     font-weight: normal;
 }
 
